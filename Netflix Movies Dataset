@@ -1,6 +1,0 @@
-Data Set Name : Netfilx Movies DataSet
-Source: Kaggle
-Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
-File Used: netflix_titles.csv
-How to Retrieve the Dataset : Go to the dataset link on Kaggle, sign in or create a kaggle account if necessary., Click download, Extract the ZIP file and use the Netflix_titles.csv file.
-Note: The raw dataset is not uploaded in this respiratory.
