@@ -1,6 +1,9 @@
 Raw Data Documentation Project
+
 Human Resources Data Analysis Project
+
 Dataset Name
+
 HR Analytics Employee Attrition Dataset
 Dataset Description
 The data for this project includes employee details which can be used to help understand and understand trends in the workforce, why staff leave and the distribution of salaries.
